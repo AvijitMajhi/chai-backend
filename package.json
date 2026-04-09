@@ -1,0 +1,15 @@
+{
+  "name": "backendpro",
+  "version": "1.0.0",
+  "description": "a backend at chai and code",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Avijit Majhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
